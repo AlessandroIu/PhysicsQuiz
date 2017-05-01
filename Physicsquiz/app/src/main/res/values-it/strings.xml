@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Physics quiz</string>
+
+    <string name="physics_app">Physics app</string>
+
+    <!--Text for the first question-->
+    <string name="_1st_question">1) In fisica, quali delle seguenti sono delle forze fondamentali
+        (chiamate anche interazioni fondamentali)?</string>
+    <string name="answer_1_a">Forza gravitazionale</string>
+    <string name="answer_1_b">Tensione meccanica</string>
+    <string name="answer_1_c">Forza elettromagnetica</string>
+    <string name="answer_1_d">Interazione nucleare forte</string>
+
+    <!--Text for the second question-->
+    <string name="_2nd_question">2) Quale tra le seguenti è la migliore delle approssimazioni della
+        velocità della luce?</string>
+    <string name="answer_2_a">300’000’000 km/h</string>
+    <string name="answer_2_b">1’000’000’000 km/h;</string>
+    <string name="answer_2_c">340,29 m/s</string>
+    <string name="answer_2_d">300’000’000 m/s^2</string>
+
+    <!--Text for the third question-->
+    <string name="_3rd_question">3) Seleziona i simboli dei componenti elettrici che non sono
+        visualizzati.</string>
+    <string name="answer_3_a">Transistore</string>
+    <string name="answer_3_b">Resistore</string>
+    <string name="answer_3_c">Capacitore</string>
+    <string name="answer_3_d">LED</string>
+
+    <!--Text for the fourth question-->
+    <string name="_4th_question">4) Quante lune ha Marte?</string>
+    <string name="mars">Scrivi il numero qui</string>
+
+    <!--Text for the fifth question-->
+    <string name="_5th_question">5) Se si aggiungono due neutroni al nucleo atomico dell\'isotopo
+        più comune dell\'idrogeno, cosa si ottiene?</string>
+    <string name="answer_5_a">Trizio</string>
+    <string name="answer_5_b">Plutonio</string>
+    <string name="answer_5_c">Litio</string>
+    <string name="answer_5_d">Non esiste un elemento così composto</string>
+
+    <!--Text for the sixth question-->
+    <string name="_6th_question">6) Quale composto è utile per prendersi cura delle ferite?</string>
+    <string name="answer_6_a">Cloruro di sodio</string>
+    <string name="answer_6_b">Periossido di idrogeno</string>
+    <string name="answer_6_c">Protossido di azoto</string>
+    <string name="answer_6_d">Saccarosio</string>
+
+    <!--Text for the seventh question-->
+    <string name="_7th_question">7) Un magnete permanente genera:</string>
+    <string name="answer_7_a">Energia</string>
+    <string name="answer_7_b">Potenza</string>
+    <string name="answer_7_c">Corrente elettrica</string>
+    <string name="answer_7_d">Forza</string>
+
+    <!--Text for the eighth question-->
+    <string name="_8th_question">8) Il “newton metro” è un\'unità che misura:</string>
+    <string name="answer_8_a">La torsione</string>
+    <string name="answer_8_b">L\'accelerazione</string>
+    <string name="answer_8_c">La velocità</string>
+    <string name="answer_8_d">La forza</string>
+
+    <!--Text for the ninth question-->
+    <string name="_9th_question">9) Quali tra le seguenti frasi sono corrette?</string>
+    <string name="answer_9_a">Una corrente elettrica produce un campo magnetico</string>
+    <string name="answer_9_b">Un campo magnetico produce una corrente elettrica</string>
+    <string name="answer_9_c">Una variazione di campo magnetico produce una corrente elettrica</string>
+    <string name="answer_9_d">Nessuna delle precedenti</string>
+
+    <!--Text for the tenth question-->
+    <string name="_10th_question">10) Nell\'industria automobilistica, un alettone è un elemento che
+        permette di ________ senza accrescere significativamente la massa del veicolo.</string>
+    <string name="answer_10_a">Ottenere più cavalli</string>
+    <string name="answer_10_b">Aumentare la trazione</string>
+    <string name="answer_10_c">Prevenire il danneggiamento delle componenti sterzanti</string>
+    <string name="answer_10_d">Consumare meno combustibile</string>
+
+    <!--Text for the submit button-->
+    <string name="submit_button">Calcola risultato</string>
+
+    <!--Text for the results toast displayed-->
+    <string name="result_toast">Il tuo punteggio è</string>
+
+    <!--Text for the results text displayed-->
+    <string name="declaring_score_by_toast_pt1">Il tuo punteggio è </string>
+    <string name="incorrect_string">sbagliata </string>
+    <string name="correct_string">corretta </string>
+
+    <string name="first_question_answer_text">La tua risposta alla prima domanda è</string>
+    <string name="second_question_answer_text">La tua risposta alla seconda domanda è</string>
+    <string name="third_question_answer_text">La tua risposta alla terza domanda è</string>
+    <string name="fourth_question_answer_text">La tua risposta alla quarta domanda è</string>
+    <string name="fifth_question_answer_text">La tua risposta alla quinta domanda è</string>
+    <string name="sixth_question_answer_text">La tua risposta alla sesta domanda è</string>
+    <string name="seventh_question_answer_text">La tua risposta alla settima domanda è</string>
+    <string name="eighth_question_answer_text">La tua risposta alla ottava domanda è</string>
+    <string name="ninth_question_answer_text">La tua risposta alla nona domanda è</string>
+    <string name="tenth_question_answer_text">La tua risposta alla decima domanda è</string>
+
+</resources>

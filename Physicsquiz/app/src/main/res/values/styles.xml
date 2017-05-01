@@ -1,0 +1,66 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="BigSeparatorBar" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- The bar that separates each question from another one. -->
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/separator_bar_between_areas</item>
+        <item name="android:layout_marginBottom">@dimen/activity_vertical_margin</item>
+        <item name="android:layout_marginLeft">0dp</item>
+        <item name="android:layout_marginRight">0dp</item>
+        <item name="android:layout_marginTop">@dimen/activity_vertical_margin</item>
+        <item name="android:background">#003096</item>
+    </style>
+
+    <style name="SeparatorBar" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- The bar that separates each question from another one. -->
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/separator_bar_between_questions</item>
+        <item name="android:layout_marginBottom">@dimen/activity_vertical_margin</item>
+        <item name="android:layout_marginLeft">0dp</item>
+        <item name="android:layout_marginRight">0dp</item>
+        <item name="android:layout_marginTop">@dimen/activity_vertical_margin</item>
+        <item name="android:background">#003096</item>
+    </style>
+
+    <style name="LinearLayoutUnpairQuestion" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- The LinearLayout that contains each unpair question. -->
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:background">@color/yellowBackgroundForQuestion</item>
+    </style>
+
+    <style name="LinearLayoutPairQuestion" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- The LinearLayout that contains each pair question. -->
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:padding">8dp</item>
+        <item name="android:background">@color/blueBackgroundForQuestion</item>
+    </style>
+
+    <style name="TextUnpairQuestion" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/questions_text_dimensions</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="TextPairQuestion" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/questions_text_dimensions</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+</resources>

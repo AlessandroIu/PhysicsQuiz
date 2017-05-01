@@ -1,0 +1,96 @@
+<resources>
+    <string name="app_name">Physics quiz</string>
+
+    <string name="physics_app">Physics app</string>
+
+    <!--Text for the first question-->
+    <string name="_1st_question">1) In physics, which of the following are fundamental forces
+        (also called “fundamental interactions”)?</string>
+    <string name="answer_1_a">Gravitational force</string>
+    <string name="answer_1_b">Tension force</string>
+    <string name="answer_1_c">Electromagnetic force</string>
+    <string name="answer_1_d">Strong force</string>
+
+    <!--Text for the second question-->
+    <string name="_2nd_question">2) Which of the following is the best approximation for the speed of light?</string>
+    <string name="answer_2_a">300’000’000 km/h</string>
+    <string name="answer_2_b">1’000’000’000 km/h;</string>
+    <string name="answer_2_c">340,29 m/s</string>
+    <string name="answer_2_d">300’000’000 m/s^2</string>
+
+    <!--Text for the third question-->
+    <string name="_3rd_question">3) Select the electrical component symbols that are not displayed.</string>
+    <string name="answer_3_a">Transistor</string>
+    <string name="answer_3_b">Resistor</string>
+    <string name="answer_3_c">Capacitor</string>
+    <string name="answer_3_d">LED</string>
+
+    <!--Text for the fourth question-->
+    <string name="_4th_question">4) How many moons has Mars?</string>
+    <string name="mars">Type the number here</string>
+
+    <!--Text for the fifth question-->
+    <string name="_5th_question">5) If you add two neutrons to the most common isotope of hydrogen, what will you obtain?</string>
+    <string name="answer_5_a">Tritium</string>
+    <string name="answer_5_b">Plutonium</string>
+    <string name="answer_5_c">Lithium</string>
+    <string name="answer_5_d">It does not exist an element like this</string>
+
+    <!--Text for the sixth question-->
+    <string name="_6th_question">6) Which compound is useful for taking care of wounds?</string>
+    <string name="answer_6_a">Sodium chloride</string>
+    <string name="answer_6_b">Hydrogen peroxide</string>
+    <string name="answer_6_c">Nitrous oxide</string>
+    <string name="answer_6_d">Sucrose</string>
+
+    <!--Text for the seventh question-->
+    <string name="_7th_question">7) A permanent magnet generates:</string>
+    <string name="answer_7_a">Energy</string>
+    <string name="answer_7_b">Power</string>
+    <string name="answer_7_c">Electric current</string>
+    <string name="answer_7_d">Force</string>
+
+    <!--Text for the eighth question-->
+    <string name="_8th_question">8) The “newton meter” is a unit that measures:</string>
+    <string name="answer_8_a">Torque</string>
+    <string name="answer_8_b">Acceleration</string>
+    <string name="answer_8_c">Speed</string>
+    <string name="answer_8_d">Force</string>
+
+    <!--Text for the ninth question-->
+    <string name="_9th_question">9) Which sentence(s) of the following are correct?</string>
+    <string name="answer_9_a">An electric current produces a magnetic field</string>
+    <string name="answer_9_b">A magnetic field produces an electric current</string>
+    <string name="answer_9_c">A variation of magnetic field produces an electric current</string>
+    <string name="answer_9_d">None of the above</string>
+
+    <!--Text for the tenth question-->
+    <string name="_10th_question">10) In automotive, a “spoiler” is a device that allows to ________ without increasing significantly the mass of the vehicle.</string>
+    <string name="answer_10_a">Gain horsepower</string>
+    <string name="answer_10_b">Increase traction</string>
+    <string name="answer_10_c">Prevent steering components from damage</string>
+    <string name="answer_10_d">Burn less fuel</string>
+
+    <!--Text for the submit button-->
+    <string name="submit_button">Submit</string>
+
+    <!--Text for the results toast displayed-->
+    <string name="result_toast">Your score is </string>
+
+    <!--Text for the results text displayed-->
+    <string name="declaring_score_by_toast_pt1">Your score is </string>
+    <string name="incorrect_string">incorrect </string>
+    <string name="correct_string">correct </string>
+
+    <string name="first_question_answer_text">Your answer for the first question is </string>
+    <string name="second_question_answer_text">Your answer for the second question is </string>
+    <string name="third_question_answer_text">Your answer for the third question is </string>
+    <string name="fourth_question_answer_text">Your answer for the fourth question is </string>
+    <string name="fifth_question_answer_text">Your answer for the fifth question is </string>
+    <string name="sixth_question_answer_text">Your answer for the sixth question is </string>
+    <string name="seventh_question_answer_text">Your answer for the seventh question is </string>
+    <string name="eighth_question_answer_text">Your answer for the eighth question is </string>
+    <string name="ninth_question_answer_text">Your answer for the ninth question is </string>
+    <string name="tenth_question_answer_text">Your answer for the ninth question is </string>
+
+</resources>
